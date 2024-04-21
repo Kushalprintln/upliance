@@ -12,7 +12,7 @@ export default function TextEditor({curruser}){
             Name : ${curruser.name},
             ID : ${curruser.id},
             Email : ${curruser.email},
-            Address : ${curruser.address},            
+            Address : ${curruser.Address},            
             Phone : ${curruser.phone},            
             `)
         }
